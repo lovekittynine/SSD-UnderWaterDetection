@@ -6,4 +6,4 @@ UnderWaterDetection Contest Using SSD
 pytorch >= 1.1.0
 
 # 检测结果
-![image] https://github.com/lovekittynine/SSD-UnderWaterDetection/blob/master/000799.jpg
+![image](https://github.com/lovekittynine/SSD-UnderWaterDetection/blob/master/000799.jpg)
